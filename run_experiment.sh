@@ -1,0 +1,15 @@
+python train.py \
+-ex=samples \
+-ds=cifar10 \
+-bb=efficientnetb7 \
+-es=10 \
+-ep=200 \
+-bs=256 \
+-lr=0.01 \
+-wd=0.0005 \
+-pl=laplace \
+-op=sgd \
+-mo=0.9 \
+-ls=cosine \
+-wb=False \
+-rs=456

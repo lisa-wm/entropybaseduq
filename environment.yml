@@ -1,0 +1,21 @@
+name: udecomp
+channels:
+  - defaults
+dependencies:
+  - wandb
+  - laplace-torch
+  - torchvision
+  - torchaudio
+  - seaborn
+  - python=3.9
+  - scikit-learn
+  - scikit-image
+  - cudatoolkit=11.3
+  - opencv
+  - pytorch
+  - pytorch-lightning
+  - torchmetrics
+  - click
+  - wand
+prefix: # /home/...
+

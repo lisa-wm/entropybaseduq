@@ -1,6 +1,6 @@
 # Entropy-based uncertainty quantification
 
-![](figures/decomposition_qualitative)
+<img src="figures/decomposition_qualitative.png" width="380" height="200" />
 
 ## Publication
 

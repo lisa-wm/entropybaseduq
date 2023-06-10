@@ -1,5 +1,7 @@
 # Entropy-based uncertainty quantification
 
+![](figures/decomposition_qualitative)
+
 ## Publication
 
 This repository contains the experiment code required to generate the results 

@@ -5,7 +5,12 @@
 ## Publication
 
 This repository contains the experiment code required to generate the results 
-presented in our submission to [UAI2023](https://www.auai.org/uai2023/).
+presented in our submission to [UAI2023](https://www.auai.org/uai2023/):
+
+L. Wimmer, Y. Sale, P. Hofman, B. Bischl & E. Hüllermeier:
+"Quantifying Aleatoric and Epistemic Uncertainty in Machine Learning:
+Are Conditional Entropy and Mutual Information Appropriate Measures?"
+
 Link to arXiv: TBD
 
 ## Code

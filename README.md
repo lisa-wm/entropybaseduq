@@ -1,4 +1,4 @@
-# Entropy-based uncertainty quantification
+# Quantifying Aleatoric and Epistemic Uncertainty in Machine Learning: Are Conditional Entropy and Mutual Information Appropriate Measures?
 
 <img src="figures/decomposition_qualitative.png" width="380" height="200" />
 
